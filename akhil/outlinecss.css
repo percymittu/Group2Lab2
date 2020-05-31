@@ -1,0 +1,22 @@
+.main
+{
+
+}
+
+body { 
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 10, 0.6)
+    ),
+    url(d.jpg);
+       background-size: auto;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+a
+{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}

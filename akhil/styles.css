@@ -1,0 +1,39 @@
+
+
+
+body { 
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 10, 0.6)
+    ),
+    url(d.jpg);
+       background-size: auto;
+       height: 638px;
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.div1
+{
+    margin-top: 15%;
+    color: white;
+    font-family: "Lucida Console", Courier, monospace;
+    align-content: center;
+}
+.nav
+{
+    width: 75%;
+    margin-top: 20px;
+    padding: 10px;
+}
+.hr
+{
+    width: 250px;
+}
+a
+{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
